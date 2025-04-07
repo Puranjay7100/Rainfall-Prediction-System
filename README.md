@@ -15,6 +15,14 @@ An interactive machine learning-based web application designed to predict rainfa
 
 ---
 
+📲 Live Demo
+
+You can access the live web application here:
+
+🔗 https://rainfall-prediction-system-7100.streamlit.app/ 
+
+---
+
 ## 🧠 Machine Learning Workflow
 
 This system uses a robust machine learning pipeline comprising:
